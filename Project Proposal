@@ -1,9 +1,14 @@
-Management section
-
-Description of major Tasks
-
-Deliverables
-Project SChedule
-Project Organisation
-Related Eperience
-Equipment and facilites
+Create a private secure communications software application that runs on multiplatforms, PC Windows, iOS, Android, Mac.
+Possible App name: "Mozweli Meets"
+Safe and secure.
+Must keep a record of attendees, for audit purposes.
+Be able to launch presentations, video clips.
+should be able to save Meeting links to invitees calendars.
+The app must cater for 250 or more attendees that logs into the call from all parts of the world, across countries and time zones.
+a feature to auto mute and turn camera off by the meeting organizer.
+Every user profile must display a valid full name and the attendees profile photo, important for audits.
+Main feature web conferencing and instant mesaging.
+group video conferencing with screen sharing(perhaps linked to a secure Mozweli server).
+We should also investigate Jitsi Meets, as its completely open source, and fully encrypted.
+data security is very important, how can we build data protection technologies into the app to prevent any compromise from terrorists or cyber attacks.
+Nuclear industry is highly regulated, so must keep that in mind, and has all meta data saved to MDM(Master Data Management) which is lead by Renier Smal.
